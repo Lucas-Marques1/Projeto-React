@@ -1,0 +1,16 @@
+footer {
+    background-color: #010101;
+    padding-bottom: 120px;
+}
+
+.item-footer {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.footer {
+    margin: auto;
+    max-width: 964px;
+    color: #fff;
+    font-size: 12pt;
+}

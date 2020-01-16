@@ -1,0 +1,57 @@
+.container-card {
+    max-width: 910px;
+    margin: auto;
+}
+
+*, *::before, *::after {
+    border: none !important;
+}
+
+.card-item {
+    display: flex;
+    margin-bottom: 90px;
+}
+
+.card-item img {
+    margin-left: 45px;
+}
+
+.card-item .img1 {
+    width: 33px;
+    height: 40px;
+}
+
+.card-item .img2 {
+    width: 43px;
+    height: 44px;
+}
+
+.card-item .img3 {
+    width: 47px;
+    height: 40px;
+}
+
+.card-item .img4 {
+    width: 52px;
+    height: 39px;
+}
+
+.card-item .img5 {
+    width: 51px;
+    height: 40px;
+}
+
+.card-item .img6 {
+    width: 36px;
+    height: 43px;
+}
+
+p.card-text, div.card-title {
+    padding-left: 34px;
+}
+
+.card-body {
+    text-align: left;
+    padding: 0;
+}
+

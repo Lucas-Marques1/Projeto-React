@@ -1,0 +1,13 @@
+.title-about {
+    font-size: 30pt;
+    font-weight: bold;
+}
+.info-about {
+    font-size: 18pt;
+}
+
+.about-container {
+    padding-top: 105px;
+    padding-bottom: 95px;
+    max-width: 735px;
+}

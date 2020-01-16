@@ -1,0 +1,38 @@
+header {
+    background-color: #fcdb00;
+    padding-top: 40px;
+}
+
+.logo img {
+    width: 43px;
+    height: 43px;
+    margin-bottom: 16px;
+}
+
+.text-logo {
+    padding-top: 10px;
+    display: inline;
+    font-size: 30pt;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.list ul {
+    list-style: none;
+    padding-top: 28px;
+}
+
+.list ul li {
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #fcdb00;
+    margin-right: 37px;
+    margin-left: 37px;
+}
+
+
+@media(min-width: 1010px) {
+    .list ul li {
+        display: inline;
+    }
+}
