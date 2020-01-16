@@ -14,6 +14,6 @@
 
 Obs: Certifique-se de estar na pasta app para rodar o comando npm install 
 
-4° E por fim, basta executar o comando: npm start (Que o projeto será iniciado automáticamente)
+4° E por fim, basta executar o comando: npm start (Que o projeto será iniciado automaticamente)
 
-Obs: Caso o projeto não inicie automáticamente, entre em seu navegador e digite o endereço: localhost:3000 (esta é a porta padrão utilizada pelo React)
+Obs: Caso o projeto não inicie automaticamente, entre em seu navegador e digite o endereço: localhost:3000 (esta é a porta padrão utilizada pelo React)
