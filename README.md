@@ -2,6 +2,10 @@
 
 - Projeto desenvolvido com HTML5, CSS3, JavaScript e a framework React.
 
+# Header do layout: 
+
+![Alt text](app/src/header.png?raw=true "Layout")
+
 ## Como compilar e rodar o projeto ?
 
 - Entre numa pasta vazia ou em sua área de trabalho utilizando algum terminal de sua preferência e execute os seguintes passos para compilar e rodar o teste:
